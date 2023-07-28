@@ -1,4 +1,4 @@
-![logo](https://github.com/rahulkp097/rahulkp097/blob/main/image.png)
+![logo](https://github.com/rahulkp097/rahulkp097/blob/main/20230720_112511_0000.png)
 
 <h1 align="center">👋 Hello! I'm Rahul K P, a passionate MERN stack developer.</h1>
 <h3 align="center"> 
