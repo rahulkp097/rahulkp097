@@ -9,9 +9,7 @@
 
 📚 Through self-study, I have worked on various projects that have allowed me to gain practical experience in building web applications using the MERN stack. These projects have strengthened my understanding of industry best practices and provided me with exposure to solving real-world challenges. 
 
-🎓 Additionally, I am currently working as an intern, where I am gaining invaluable hands-on experience collaborating with a team, working on live projects, and further developing my skills as a MERN stack developer. 
-
-🌟 I am eager to continue learning and growing as a developer, and I am actively seeking new opportunities to apply my knowledge and contribute to impactful projects. 
+🌟 I am actively seeking new opportunities to apply my knowledge and contribute to impactful projects. 
 
 
 <img align="center" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
