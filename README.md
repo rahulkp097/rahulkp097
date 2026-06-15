@@ -11,9 +11,9 @@
 </p>
 
 🌟 **About Me:**
-* 🚀 **Full Stack Developer** with a proven track record of scaling backend infrastructure and optimizing system performance.
-* 🛠️ Experienced in **Monolith-to-Microservices migration**, database tuning, and automated deployment pipelines.
-* ⚙️ Focused on maintainable architecture, observability, and engineering excellence.
+* [cite_start]🚀 **Full Stack Developer** with a proven track record of scaling backend infrastructure and optimizing system performance[cite: 5, 6].
+* [cite_start]🛠️ Experienced in **Monolith-to-Microservices migration**, database tuning, and automated deployment pipelines[cite: 7].
+* [cite_start]⚙️ Focused on maintainable architecture, observability, and engineering excellence[cite: 7].
 
 ---
 
@@ -22,7 +22,7 @@
 <p align="left">
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
   <a href="https://expressjs.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/></a>
-  <a href="https://nestjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/></a>
+  <a href="https://nestjs.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/nestjs.svg" alt="nestjs" width="40" height="40"/></a>
   <a href="https://dvcs.w3.org/hg/gRPC/raw-file/tip/protocol-documentation.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grpc/grpc-original.svg" alt="grpc" width="40" height="40"/></a>
   <a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg" alt="graphql" width="40" height="40"/></a>
   
@@ -66,4 +66,4 @@
   <a href="https://www.leetcode.com/rahulkp097" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rahulkp097" height="30" width="40" /></a>
 </p>
 
-📬 Feel free to reach out via email at **rahulkp097@gmail.com**. I am always open to collaborating on high-performance web applications, distributed systems, and discussing clean architecture!
+[cite_start]📬 Feel free to reach out via email at **rahulkp097@gmail.com**[cite: 3]. I am always open to collaborating on high-performance web applications, distributed systems, and discussing clean architecture!
