@@ -1,5 +1,3 @@
-![logo](https://github.com/rahulkp097/rahulkp097/blob/main/logo.png)
-
 <h1 align="center">👋 Hello! I'm Rahul K P, a Full Stack Developer.</h1>
 
 <h3 align="center">
